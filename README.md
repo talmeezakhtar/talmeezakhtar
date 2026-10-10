@@ -13,7 +13,7 @@
   <a href="https://talmeezakhtar.io"><img src="https://img.shields.io/badge/Portfolio-talmeezakhtar.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/talmeez-akhtar-308870242/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:talmeezmzp@gmail.com"><img src="https://img.shields.io/badge/Email-talmeezmzp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/17byFh8hE3qnJG5sfs3asLVDeQchbXGYv/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-View-0F172A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/15Zhc4IdEyOOfWwfvMf-b1OESIQe26pnP/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-View-0F172A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
